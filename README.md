@@ -1,3 +1,3 @@
 # raunakrathour.github.io
 
-these are the codes for my personal site raunakrathour.tk
+My personal webpage raunakrathour.github.io .repo
